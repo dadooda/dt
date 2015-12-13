@@ -1,0 +1,6 @@
+# General Ruby, sorted by first letter.
+/.bundle/
+/doc/*
+/.rspec
+/vendor/bundle/
+/.yardoc/
